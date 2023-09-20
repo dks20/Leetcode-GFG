@@ -20,8 +20,12 @@ class Solution {
             length ++;
         }
 
-        last.next = head;
         int rotation = k % length;
+        if(rotation == 0){
+            return head;
+        }else{
+            last.next = head;
+        }
         int skip = length  - rotation;
 
         ListNode newLast = head;
