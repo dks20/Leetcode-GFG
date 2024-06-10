@@ -1,3 +1,16 @@
 # Leetcode-GFG
-Collection of LeetCode questions to ace the coding interview! 
+Collection of LeetCode questions to ace the coding interview!
 
+
+# Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dks20/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+# String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dks20/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+# Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dks20/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
