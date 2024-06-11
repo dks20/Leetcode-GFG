@@ -14,3 +14,19 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dks20/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+# Array
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dks20/Leetcode-GFG/tree/master/0204-count-primes) |
+# Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dks20/Leetcode-GFG/tree/master/0204-count-primes) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dks20/Leetcode-GFG/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dks20/Leetcode-GFG/tree/master/0204-count-primes) |
