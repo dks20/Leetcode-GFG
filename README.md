@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dks20/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/dks20/Leetcode-GFG/tree/master/0560-subarray-sum-equals-k) |
 # String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dks20/Leetcode-GFG/tree/master/0204-count-primes) |
+| [0560-subarray-sum-equals-k](https://github.com/dks20/Leetcode-GFG/tree/master/0560-subarray-sum-equals-k) |
 # Math
 |  |
 | ------- |
@@ -30,3 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dks20/Leetcode-GFG/tree/master/0204-count-primes) |
+# Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dks20/Leetcode-GFG/tree/master/0560-subarray-sum-equals-k) |
