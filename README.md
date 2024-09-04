@@ -42,16 +42,32 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Hash Table
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
