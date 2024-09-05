@@ -70,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/dks20/Leetcode-GFG/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
