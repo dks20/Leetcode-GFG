@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -92,8 +93,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/dks20/Leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
+| [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/dks20/Leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
