@@ -104,4 +104,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/dks20/Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/dks20/Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
