@@ -42,11 +42,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/dks20/Leetcode-GFG/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/dks20/Leetcode-GFG/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/dks20/Leetcode-GFG/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Hash Table
 |  |
@@ -83,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/dks20/Leetcode-GFG/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dks20/Leetcode-GFG/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/dks20/Leetcode-GFG/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/dks20/Leetcode-GFG/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/dks20/Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/dks20/Leetcode-GFG/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
