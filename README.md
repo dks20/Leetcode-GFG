@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/dks20/Leetcode-GFG/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/dks20/Leetcode-GFG/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/dks20/Leetcode-GFG/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dks20/Leetcode-GFG/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/dks20/Leetcode-GFG/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -120,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/dks20/Leetcode-GFG/tree/master/0257-binary-tree-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dks20/Leetcode-GFG/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
