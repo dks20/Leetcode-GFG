@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/dks20/Leetcode-GFG/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/dks20/Leetcode-GFG/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/dks20/Leetcode-GFG/tree/master/0257-binary-tree-paths) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dks20/Leetcode-GFG/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +127,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dks20/Leetcode-GFG/tree/master/0258-add-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dks20/Leetcode-GFG/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
