@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dks20/Leetcode-GFG/tree/master/0011-container-with-most-water) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dks20/Leetcode-GFG/tree/master/0011-container-with-most-water) |
 | [0119-pascals-triangle-ii](https://github.com/dks20/Leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
@@ -135,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dks20/Leetcode-GFG/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dks20/Leetcode-GFG/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
