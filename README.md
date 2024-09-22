@@ -120,10 +120,12 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dks20/Leetcode-GFG/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/dks20/Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dks20/Leetcode-GFG/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/dks20/Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
 ## Backtracking
 |  |
