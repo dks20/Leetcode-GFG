@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dks20/Leetcode-GFG/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/dks20/Leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/dks20/Leetcode-GFG/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dks20/Leetcode-GFG/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dks20/Leetcode-GFG/tree/master/0011-container-with-most-water) |
 | [0119-pascals-triangle-ii](https://github.com/dks20/Leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
