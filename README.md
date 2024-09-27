@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dks20/Leetcode-GFG/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/dks20/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/dks20/Leetcode-GFG/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dks20/Leetcode-GFG/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/dks20/Leetcode-GFG/tree/master/0205-isomorphic-strings) |
@@ -145,4 +146,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dks20/Leetcode-GFG/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dks20/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
