@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dks20/Leetcode-GFG/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/dks20/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/dks20/Leetcode-GFG/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dks20/Leetcode-GFG/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/dks20/Leetcode-GFG/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/dks20/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/dks20/Leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/dks20/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
