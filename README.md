@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/dks20/Leetcode-GFG/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/dks20/Leetcode-GFG/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/dks20/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/dks20/Leetcode-GFG/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/dks20/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dks20/Leetcode-GFG/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/dks20/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dks20/Leetcode-GFG/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dks20/Leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dks20/Leetcode-GFG/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/dks20/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
