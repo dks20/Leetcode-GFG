@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/dks20/Leetcode-GFG/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/dks20/Leetcode-GFG/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dks20/Leetcode-GFG/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/dks20/Leetcode-GFG/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/dks20/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dks20/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dks20/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/dks20/Leetcode-GFG/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dks20/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dks20/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
