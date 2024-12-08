@@ -1,39 +1,24 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        f = nums[0]
-        s = nums[0]
-
-        fc , sc =0,0
+        ans1 = 0
+        ans2 = 1
+        count1 = 0
+        count2 = 0
 
         for num in nums:
-            if num == f:
-                fc +=1
-            elif num == s:
-                sc += 1
-            elif fc == 0:
-                f = num
-                fc +=1
-            elif sc == 0:
-                s = num
-                sc +=1
+            if num == ans1:
+                count1 += 1
+            elif num == ans2:
+                count2 += 1
+            elif count1 == 0:
+                ans1 = num
+                count1 = 1
+            elif count2 == 0:
+                ans2 = num
+                count2 = 1
             else:
-                fc -= 1
-                sc -= 1
+                count1 -= 1
+                count2 -= 1
 
-        fc = sc = 0
-        for num in nums:
-            if num == f:
-                fc += 1
-            elif num == s:
-                sc += 1
-
-        # Step 3: Return candidates with count > n // 3
-        result = []
-        n = len(nums)
-        if fc > n // 3:
-            result.append(f)
-        if sc > n // 3:
-            result.append(s)
-        return result
-
+        return [ans for ans in (ans1, ans2) if nums.count(ans) > len(nums) // 3]
 
