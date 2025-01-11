@@ -1,14 +1,13 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hashm = {}
+        hmap = {}
 
-        for i  in range(len(nums)):
-            if target - nums[i] in hashm:
-                return [hashm.get(target - nums[i]),i]
+        for i in range(len(nums)):
+            if target - nums[i] in hmap:
+                return [hmap.get(target - nums[i]),i]
             else:
-                hashm[nums[i]] = i
-            
-        
+                hmap[nums[i]] = i
+
    
              
         
