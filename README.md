@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dks20/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0278-first-bad-version](https://github.com/dks20/Leetcode-GFG/tree/master/0278-first-bad-version) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -228,4 +229,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dks20/Leetcode-GFG/tree/master/0020-valid-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/dks20/Leetcode-GFG/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
