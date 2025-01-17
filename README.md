@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0278-first-bad-version](https://github.com/dks20/Leetcode-GFG/tree/master/0278-first-bad-version) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0792-binary-search](https://github.com/dks20/Leetcode-GFG/tree/master/0792-binary-search) |
+| [1023-time-based-key-value-store](https://github.com/dks20/Leetcode-GFG/tree/master/1023-time-based-key-value-store) |
 ## Binary Tree
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/dks20/Leetcode-GFG/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/dks20/Leetcode-GFG/tree/master/0409-longest-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1023-time-based-key-value-store](https://github.com/dks20/Leetcode-GFG/tree/master/1023-time-based-key-value-store) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/dks20/Leetcode-GFG/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/dks20/Leetcode-GFG/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/dks20/Leetcode-GFG/tree/master/0409-longest-palindrome) |
+| [1023-time-based-key-value-store](https://github.com/dks20/Leetcode-GFG/tree/master/1023-time-based-key-value-store) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dks20/Leetcode-GFG/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Bit Manipulation
 |  |
@@ -243,4 +246,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dks20/Leetcode-GFG/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/dks20/Leetcode-GFG/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
