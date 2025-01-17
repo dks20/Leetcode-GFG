@@ -234,8 +234,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dks20/Leetcode-GFG/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/dks20/Leetcode-GFG/tree/master/0155-min-stack) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/dks20/Leetcode-GFG/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/dks20/Leetcode-GFG/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
