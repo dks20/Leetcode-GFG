@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0278-first-bad-version](https://github.com/dks20/Leetcode-GFG/tree/master/0278-first-bad-version) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0792-binary-search](https://github.com/dks20/Leetcode-GFG/tree/master/0792-binary-search) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/dks20/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dks20/Leetcode-GFG/tree/master/0229-majority-element-ii) |
+| [0792-binary-search](https://github.com/dks20/Leetcode-GFG/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
