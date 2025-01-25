@@ -45,12 +45,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/dks20/Leetcode-GFG/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/dks20/Leetcode-GFG/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/dks20/Leetcode-GFG/tree/master/0409-longest-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1023-time-based-key-value-store](https://github.com/dks20/Leetcode-GFG/tree/master/1023-time-based-key-value-store) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/dks20/Leetcode-GFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Math
 |  |
 | ------- |
