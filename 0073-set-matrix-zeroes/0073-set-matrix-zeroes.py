@@ -3,39 +3,29 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        # optimized
+        m = len(matrix)
+        n = len(matrix[0])
+
+        row = [0] * m #[0,1,0]
+        col = [0] * n
+
+        for i in range(m):
+            for j in range(n):
+                if matrix[i][j] == 0:
+                    row[i] = 1
+                    col[j] = 1
         
-        row = len(matrix)
-        col = len(matrix[0])
+        for i in range(m):
+            if row[i]:
+                for j in range(n):
+                    matrix[i][j] = 0
 
-        rowZero = False
-          
-        for r in range(row):
-            for c in range(col):
-                if matrix[r][c] == 0:
-                    matrix[0][c] = 0
+        for i in range(n):
+            if col[i]:
+                for j in range(m):
+                    matrix[j][i] = 0
 
-                    if r >0:
-                        matrix[r][0] = 0
-                    else:
-                        rowZero = True
-
-        for r in range(1,row):
-            for c in range(1,col):
-                if matrix[0][c] == 0 or matrix[r][0] ==0:
-                    matrix[r][c] = 0
-
-        if matrix[0][0] == 0:
-            for r in range(1,row):
-                matrix[r][0] = 0
-
-        if rowZero:
-            for c in range(col):
-                matrix[0][c] = 0
-
-
-
-
+        
 
 
                 
