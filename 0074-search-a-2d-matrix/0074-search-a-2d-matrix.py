@@ -1,33 +1,37 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
        
-    #    m = len(matrix)
-    #    n = len(matrix[0])
+        m = len(matrix)
+        n = len(matrix[0])
 
-    #    for i  in range(m):
-    #     if target > matrix[i][n-1]:
-    #         continue
-    #     elif target == matrix[i][n-1]:
-    #         return True
-    #     elif target < matrix[i][n-1]:
-    #         start = i
-    #         end = n-1
+        top , bot = 0 , m-1
 
-    #         return self.binarySearch(matrix[i],0,m-1,target)
+        while top <= bot:
+            mid = (bot + top) //2
+            if target > matrix[mid][-1]:
+                top = mid + 1
+            elif target < matrix[mid][0]:
+                bot = mid-1
+            else:
+                break
 
-    #     else:
-    #         return False
-       
-    # def binarySearch(self,arr,start,end,target):
-    #     while start <= end:
-    #         mid = start + (end -start)//2 
-    #         if arr[mid] ==  target:
-    #             return True
-    #         if target < arr[mid]:
-    #             return self.binarySearch(arr,start,mid,target)
-    #         else:
-    #             return self.binarySearch(arr,mid+1,end,target)
-    #     return False
+        row = (bot + top) //2
+
+        l = 0 
+        r = n-1
+
+        while l<= r:
+            mid = (r+l)//2
+            if matrix[row][mid] > target:
+                r = mid -1
+            elif target > matrix[row][mid]:
+                l =mid +1
+            else:
+                return True
+
+        return False
+
+    
         
 
        
@@ -62,20 +66,20 @@ class Solution:
        
        
        
-        m= len(matrix)
-        n = len(matrix[0])
+        # m= len(matrix)
+        # n = len(matrix[0])
 
-        for i in range(m):
-            if target < matrix[i][n-1]:
-                for nums in matrix[i]:
-                    if nums == target:
-                        return True
-                else:
-                    return False
-            elif target == matrix[i][n-1]:
-                return True
+        # for i in range(m):
+        #     if target < matrix[i][n-1]:
+        #         for nums in matrix[i]:
+        #             if nums == target:
+        #                 return True
+        #         else:
+        #             return False
+        #     elif target == matrix[i][n-1]:
+        #         return True
            
-        return False
+        # return False
     
 
     
