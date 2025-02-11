@@ -1,15 +1,17 @@
 class Solution:
     def myPow(self, x: float, n: int) -> float:
-       def helper(x,n):
-        if x == 0: return 0
-        if n == 0: return 1
+       binary = abs(n)
+       ans = 1
 
-        ans = helper(x,n//2)
-        ans = ans * ans
-        return x * ans if n % 2  else ans
+       while(binary > 0):
+        if binary %2 == 1:
+            ans *= x
+        x *= x
+        binary //= 2
 
-    
+       return ans if n >= 0 else 1 / ans
 
-       res = helper(x, abs(n))
-       return res if n >= 0 else 1/res
+       #(2 ,5)     * (2,5)
+       (2,2) 
+       (2,1)
     
