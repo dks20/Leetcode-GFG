@@ -1,24 +1,19 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        ans1 = 0
-        ans2 = 1
-        count1 = 0
-        count2 = 0
+        count = defaultdict(int)
+        n = len(nums)//3
+        ans = []
+        
+        for i in nums:
+            
+            count[i] += 1
+            
+        for key,values in count.items():
+            if values > n:
+                ans.append(key)
+        
 
-        for num in nums:
-            if num == ans1:
-                count1 += 1
-            elif num == ans2:
-                count2 += 1
-            elif count1 == 0:
-                ans1 = num
-                count1 = 1
-            elif count2 == 0:
-                ans2 = num
-                count2 = 1
-            else:
-                count1 -= 1
-                count2 -= 1
+        return ans 
 
-        return [ans for ans in (ans1, ans2) if nums.count(ans) > len(nums) // 3]
+
 
