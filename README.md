@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dks20/Leetcode-GFG/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dks20/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dks20/Leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dks20/Leetcode-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/dks20/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dks20/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/dks20/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/dks20/Leetcode-GFG/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/dks20/Leetcode-GFG/tree/master/0013-roman-to-integer) |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dks20/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dks20/Leetcode-GFG/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
