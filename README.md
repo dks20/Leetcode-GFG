@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/dks20/Leetcode-GFG/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dks20/Leetcode-GFG/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/dks20/Leetcode-GFG/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/dks20/Leetcode-GFG/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/dks20/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dks20/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/dks20/Leetcode-GFG/tree/master/0141-linked-list-cycle) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dks20/Leetcode-GFG/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/dks20/Leetcode-GFG/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/dks20/Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/dks20/Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/dks20/Leetcode-GFG/tree/master/0908-middle-of-the-linked-list) |
