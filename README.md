@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dks20/Leetcode-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/dks20/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dks20/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/dks20/Leetcode-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dks20/Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/dks20/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dks20/Leetcode-GFG/tree/master/0205-isomorphic-strings) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dks20/Leetcode-GFG/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/dks20/Leetcode-GFG/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/dks20/Leetcode-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dks20/Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/dks20/Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/dks20/Leetcode-GFG/tree/master/0908-middle-of-the-linked-list) |
