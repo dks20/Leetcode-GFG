@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dks20/Leetcode-GFG/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/dks20/Leetcode-GFG/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dks20/Leetcode-GFG/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/dks20/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dks20/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dks20/Leetcode-GFG/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/dks20/Leetcode-GFG/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dks20/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/dks20/Leetcode-GFG/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/dks20/Leetcode-GFG/tree/master/0118-pascals-triangle) |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dks20/Leetcode-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/dks20/Leetcode-GFG/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dks20/Leetcode-GFG/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/dks20/Leetcode-GFG/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dks20/Leetcode-GFG/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/dks20/Leetcode-GFG/tree/master/0257-binary-tree-paths) |
 ## Number Theory
