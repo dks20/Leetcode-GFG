@@ -1,18 +1,19 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        ans = []
-        n =len(nums)
-
-        def helper(i,curr):
-            if i >= n:
-                ans.append(curr[:])
+        n=len(nums)
+        res=[]
+        sol=[]
+        def backtrack(i):
+            if i==n:
+                res.append(sol[:])
                 return
-            
-            curr.append(nums[i])
-            helper(i+1,curr)
-            curr.pop()
-            helper(i+1,curr)
-        helper(0,[])
+            #dont pick nums[i]
+            backtrack(i+1)
+            #pick nums[i]
+            sol.append(nums[i])
+            backtrack(i+1)
+            sol.pop()
+        backtrack(0)
+        return res
 
-        return ans
         
