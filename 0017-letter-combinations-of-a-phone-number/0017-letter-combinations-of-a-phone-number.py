@@ -10,17 +10,18 @@ class Solution:
             '8': 'tuv',
             '9': 'wxyz',
         }
+        #23
 
-        def backtrack(i,currStr):
-            if i >= len(digits):
-                res.append(currStr)
+        def helper(i,curr):
+            if len(curr) == len(digits):
+                res.append(curr)
                 return
-            
+
             for c in digitToChar[digits[i]]:
-                backtrack(i+1, currStr + c)
+                helper(i+1,curr + c)
 
         if digits:
-            backtrack(0,"")
-        
+            helper(0,"")
+
         return res
         
