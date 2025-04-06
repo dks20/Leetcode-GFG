@@ -1,33 +1,38 @@
-class Solution(object):
-    def findMedianSortedArrays(self, nums1, nums2):
-        """
-        :type nums1: List[int]
-        :type nums2: List[int]
-        :rtype: float
-        """
-        m, n = len(nums1), len(nums2)
-        if m > n:
-            nums1, nums2, m, n = nums2, nums1, n, m
+class Solution:
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        m = nums1
+        n = nums2
 
-        imin, imax, half_len = 0, m, (m + n + 1) // 2
-        while imin <= imax:
-            i = (imin + imax) // 2
-            j = half_len - i
-            if i < m and nums2[j-1] > nums1[i]:
-                imin = i + 1
-            elif i > 0 and nums1[i-1] > nums2[j]:
-                imax = i - 1
+        total = len(m) + len(n)
+        half = total//2
+
+        if len(m) > len(n):
+            m,n=n,m
+
+        l = 0 
+        r = len(m) -1
+        while(True):
+            mid1 = (l+r)//2
+            mid2 = half - mid1 - 2
+
+            mleft = m[mid1] if mid1 >= 0 else float('-inf') 
+            mright = m[mid1+1] if mid1+1 < len(m) else float('inf')
+            nleft = n[mid2]  if mid2 >= 0 else float('-inf') 
+            nright = n[mid2 +1] if mid2+1 < len(n) else float('inf')
+            
+            if mleft <= nright and nleft <= mright:
+                if total %2 ==1:
+                    return min(mright,nright)
+                else:
+                    return (max(mleft,nleft) + min(mright,nright)) /2
+
+            elif mleft > nright :
+                r = mid1-1
             else:
-                if i == 0: max_of_left = nums2[j-1]
-                elif j == 0: max_of_left = nums1[i-1]
-                else: max_of_left = max(nums1[i-1], nums2[j-1])
+                l = mid1+1
 
-                if (m + n) % 2 == 1:
-                    return max_of_left
 
-                if i == m: min_of_right = nums2[j]
-                elif j == n: min_of_right = nums1[i]
-                else: min_of_right = min(nums1[i], nums2[j])
-
-                return (max_of_left + min_of_right) / 2.0
         
+
+
+
