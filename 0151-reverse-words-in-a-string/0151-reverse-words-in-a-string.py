@@ -16,9 +16,7 @@ class Solution:
         
         return ans[1:len(ans)]
 
-        
 
-        return ans[1:len(ans)]
 
 
 
