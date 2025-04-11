@@ -11,11 +11,7 @@ class Solution:
         ans = 0
 
         for i in range(len(s)):
-            if i+1 < len(s) and s[i] == "I" and (s[i+1] == "V" or s[i+1] == "X"):
-                ans -= hmap[s[i]]
-            elif i+1 < len(s) and s[i] == "X" and (s[i+1] == "L" or s[i+1] == "C"):
-                ans -= hmap[s[i]]
-            elif i+1 < len(s) and s[i] == "C" and (s[i+1] == "D" or s[i+1] == "M"):
+            if i+1 < len(s) and hmap[s[i]] < hmap[s[i+1]]:
                 ans -= hmap[s[i]]
             else:  
                 ans += hmap[s[i]]
