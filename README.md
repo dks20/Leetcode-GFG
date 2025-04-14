@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dks20/Leetcode-GFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0110-balanced-binary-tree) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dks20/Leetcode-GFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0110-balanced-binary-tree) |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dks20/Leetcode-GFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
