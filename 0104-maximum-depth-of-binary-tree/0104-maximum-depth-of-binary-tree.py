@@ -7,15 +7,20 @@
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
 
-        def helper(root):
-            if not root:
-                return 0
-            
-            leftheight = helper(root.left) 
-            rightheight = helper(root.right)
+        if not root:
+            return 0
 
-            return max(leftheight , rightheight) +1
+        level = 0
+        queue = deque([root])
 
-        return helper(root)
+        while (queue):
+            for i in range(len(queue)):
+                curr = queue.popleft()
+                if curr.left:
+                    queue.append(curr.left)
+                if curr.right:
+                    queue.append(curr.right)
+            level +=1
+        return level
       
         
