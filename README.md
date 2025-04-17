@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/dks20/Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/dks20/Leetcode-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/dks20/Leetcode-GFG/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/dks20/Leetcode-GFG/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/dks20/Leetcode-GFG/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/dks20/Leetcode-GFG/tree/master/0908-middle-of-the-linked-list) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/dks20/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dks20/Leetcode-GFG/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dks20/Leetcode-GFG/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/dks20/Leetcode-GFG/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/dks20/Leetcode-GFG/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/dks20/Leetcode-GFG/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dks20/Leetcode-GFG/tree/master/0540-single-element-in-a-sorted-array) |
