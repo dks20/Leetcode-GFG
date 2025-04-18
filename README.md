@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0513-find-bottom-left-tree-value](https://github.com/dks20/Leetcode-GFG/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0513-find-bottom-left-tree-value](https://github.com/dks20/Leetcode-GFG/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Search Tree
 |  |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0513-find-bottom-left-tree-value](https://github.com/dks20/Leetcode-GFG/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/dks20/Leetcode-GFG/tree/master/0409-longest-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1023-time-based-key-value-store](https://github.com/dks20/Leetcode-GFG/tree/master/1023-time-based-key-value-store) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Two Pointers
 |  |
@@ -155,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/dks20/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/dks20/Leetcode-GFG/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Math
 |  |
@@ -266,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/dks20/Leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/dks20/Leetcode-GFG/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/dks20/Leetcode-GFG/tree/master/0948-sort-an-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
