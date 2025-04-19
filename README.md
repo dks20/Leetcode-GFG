@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dks20/Leetcode-GFG/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dks20/Leetcode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dks20/Leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dks20/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dks20/Leetcode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dks20/Leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dks20/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dks20/Leetcode-GFG/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dks20/Leetcode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dks20/Leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dks20/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/dks20/Leetcode-GFG/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dks20/Leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dks20/Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dks20/Leetcode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Sorting
 |  |
 | ------- |
