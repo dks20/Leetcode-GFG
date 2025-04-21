@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/dks20/Leetcode-GFG/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dks20/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dks20/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/dks20/Leetcode-GFG/tree/master/2384-root-equals-sum-of-children) |
 ## Hash Table
 |  |
 | ------- |
