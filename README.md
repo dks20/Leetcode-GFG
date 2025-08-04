@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/dks20/Leetcode-GFG/tree/master/0409-longest-palindrome) |
 | [0686-repeated-string-match](https://github.com/dks20/Leetcode-GFG/tree/master/0686-repeated-string-match) |
 | [1023-time-based-key-value-store](https://github.com/dks20/Leetcode-GFG/tree/master/1023-time-based-key-value-store) |
+| [3379-score-of-a-string](https://github.com/dks20/Leetcode-GFG/tree/master/3379-score-of-a-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dks20/Leetcode-GFG/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Bit Manipulation
 |  |
